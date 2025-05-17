@@ -1,7 +1,7 @@
 ---
 title: Mathieu Zancan
 ---
-[LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
+[My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
 # **SUMMARY**
 
