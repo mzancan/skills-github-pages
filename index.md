@@ -39,9 +39,9 @@
 <body>
   <header>
     <nav>
-      <a href="#summary">Summary</a>
-      <a href="#professional-experiences">Professional Experiences</a>
-      <a href="#education">Education</a>
+      <a href="#summar">Summary</a>
+      <a href="#professional-experience">Professional Experiences</a>
+      <a href="#educatio">Education</a>
       <a href="#specific-skills">Specific Skills</a>
       <a href="#other-experiences-and-trainings">Other Experiences and Trainings</a>
     </nav>
