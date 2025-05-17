@@ -9,7 +9,7 @@ Passionate about digital technologies (hardware and software) since my beginning
 
 # **PROFESSIONAL EXPERIENCES**
 
-## **ADVISO** | *2016 to today (8 years and 10 months)*
+### **ADVISO** | *2016 to today (8 years and 10 months)*
 
 1. Digital Media & Innovation Director | May 2022 to today (3 years and 1 month)
 - Co-directing the media department, operations and clients.
@@ -35,27 +35,27 @@ Establishment of strategic recommendations and management of client relations.
 - In charge of the management and optimization of digital advertising campaigns.
 - Responsible for client communications.
 
-## **LOTO QUEBEC** | *2016 (3 months)*
+### **LOTO QUEBEC** | *2016 (3 months)*
 
 Master’s synthesis project in e-commerce
 - Implementation of eight short-term strategies focused on acquiring new mobile users.
 - Establishment of a long-term strategy for Loto Quebec's complete mobile apps offer.
 
-## **ECOMMTL (E-commerce corporate event)** | *2014-2016 (2 years)*
+### **ECOMMTL (E-commerce corporate event)** | *2014-2016 (2 years)*
 
 Member of the board of directors
 - Business development project manager.
 - Establishment of partnerships with participating companies.
 - Great involvement in logistics and strategic decisions.
 
-## **LOZEAU** | *2014-2015 (1 year)*
+### **LOZEAU** | *2014-2015 (1 year)*
 
 Salesman & Photography Teacher
 - Product advice and sales.
 - Classroom and studio teaching.
 - Participation in the organization of photo exhibitions.
 
-## **BRP** | *2012 (6 months)*
+### **BRP** | *2012 (6 months)*
 
 1. Buyer at the research and development center
 - Responsible for "non-stocked" purchases of the research center in Valcourt (QC).
@@ -66,7 +66,7 @@ Salesman & Photography Teacher
 - Participation in the standardization of the company's translation operations worldwide.
 - Negotiation of partnerships with partners.
 
-## **FUTURE SHOP** | *2007-2014 (8 years)*
+### **FUTURE SHOP** | *2007-2014 (8 years)*
 
 Salesman in mobile telephony, digital imaging and mobile audio
 - Mobile phone expert representing seven companies: Bell, Telus, Rogers, Virgin, Koodo, Fido and Chatr.
@@ -74,14 +74,14 @@ Salesman in mobile telephony, digital imaging and mobile audio
 
 # **EDUCATION**
 
-## **Master’s degree in E-Commerce** | *2015-2016 (2 years)*
+### **Master’s degree in E-Commerce** | *2015-2016 (2 years)*
 - HEC Montreal in association with Montreal University (UdeM)
 
-## **Bachelor of Business Administration - Marketing Profile** | *2012-2015 (3 years)*
+### **Bachelor of Business Administration - Marketing Profile** | *2012-2015 (3 years)*
 - School of Management Sciences (ESG - UQÀM)
 - With mention of excellence
 
-## **Administrative Technic - Business Management Profile** | *2009-2012 (3 years)*
+### **Administrative Technic - Business Management Profile** | *2009-2012 (3 years)*
 - Sherbrooke Cegep
 - With mention of excellence
 
