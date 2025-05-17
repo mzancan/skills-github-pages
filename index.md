@@ -1,5 +1,6 @@
 ---
 title: Mathieu Zancan
+---
 
 <!DOCTYPE html>
 <html lang="en">
@@ -53,10 +54,7 @@ title: Mathieu Zancan
 </body>
 </html>
 
----
-
 <br/>
-
 [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
 # **SUMMARY**
