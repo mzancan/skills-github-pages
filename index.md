@@ -1,6 +1,5 @@
 ---
 title: Mathieu Zancan
----
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,7 +14,7 @@ title: Mathieu Zancan
     }
 
     header {
-      background-color: #2c3e50;
+      background-color: #000000;
       padding: 20px;
       color: white;
     }
@@ -36,7 +35,7 @@ title: Mathieu Zancan
     }
 
     nav a:hover {
-      background-color: #34495e;
+      background-color: #000000;
       border-radius: 5px;
     }
   </style>
@@ -53,6 +52,8 @@ title: Mathieu Zancan
   </header>
 </body>
 </html>
+
+---
 
 <br/>
 
