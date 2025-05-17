@@ -72,7 +72,6 @@ Establishment of strategic recommendations and management of client relations.
 - Mobile phone expert representing seven companies: Bell, Telus, Rogers, Virgin, Koodo, Fido and Chatr.
 - Expert in digital photography and mobile audio devices.
 
-\
 # **EDUCATION**
 
 ### **Master’s degree in E-Commerce** | *2015-2016 (2 years)*
@@ -86,7 +85,6 @@ Establishment of strategic recommendations and management of client relations.
 - Sherbrooke Cegep
 - With mention of excellence
 
-\
 # **SPECIFIC SKILLS**
 
 - Excellent knowledge of advertising platforms: Google Ads, Search Ads 360 (SA360), Campaign Manager 360 (CM360), Display & Video 360 (DV360), Facebook (Meta) Business Manager, Bing Ads, LinkedIn Ads, Tik Tok Ads, Pinterest Ads and many other Demand Side Platforms (DSP) such as Yahoo! and Sharethrough.
@@ -94,7 +92,6 @@ Establishment of strategic recommendations and management of client relations.
 - Excellent knowledge of Google Workspace and Microsoft Office.
 - Bilingual English and French, spoken and written.
 
-\
 # **OTHER EXPERIENCES AND TRAININGS**
 
 - International Study Project in Indonesia and Singapore for the Clefs d'Or association.
