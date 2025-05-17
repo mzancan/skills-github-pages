@@ -42,8 +42,8 @@
       <a href="#summary">Summary</a>
       <a href="#professional-experiences">Professional Experiences</a>
       <a href="#education">Education</a>
-      <a href="#skills">Specific Skills</a>
-      <a href="#other-experiences">Other Experiences and Trainings</a>
+      <a href="#specific-skills">Specific Skills</a>
+      <a href="#other-experiences-and-trainings">Other Experiences and Trainings</a>
     </nav>
   </header>
 </body>
@@ -51,9 +51,7 @@
 
 <br/>
 
----
-title: Mathieu Zancan
----
+# **MATHIEU ZANCAN**
 
 [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
