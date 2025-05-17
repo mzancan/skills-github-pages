@@ -1,6 +1,61 @@
 ---
 title: Mathieu Zancan
 ---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Resume</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      background-color: #2c3e50;
+      padding: 20px;
+      color: white;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 10px 15px;
+      transition: background-color 0.3s ease;
+    }
+
+    nav a:hover {
+      background-color: #34495e;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="#summary">Summary</a>
+      <a href="#professional-experiences">Professional Experiences</a>
+      <a href="#education">Education</a>
+      <a href="#skills">Skills</a>
+      <a href="#other-experiences">Other Experiences</a>
+      <a href="#training">Training</a>
+    </nav>
+  </header>
+</body>
+</html>
+
+
 [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
 # **SUMMARY**
