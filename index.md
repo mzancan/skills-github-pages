@@ -1,12 +1,12 @@
 ---
 title: Mathieu Zancan
 ---
+[LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
 # **SUMMARY**
 
 Passionate about digital technologies (hardware and software) since my beginnings in sales at Future Shop, my studies in marketing and e-commerce have allowed me to transform this passion into an expertise that I have the chance to apply on a daily basis with clients from all sectors. My endless curiosity, my sense of leadership and my human values ​​are the engines that motivate me behind the projects I undertake. I consider that my teamwork abilities, my interpersonal skills and my ease with pedagogy are key factors in the success of my work.
 
-\
 # **PROFESSIONAL EXPERIENCES**
 
 ## **ADVISO** | *2016 to today (8 years and 10 months)*
@@ -72,7 +72,6 @@ Salesman in mobile telephony, digital imaging and mobile audio
 Mobile phone expert representing seven companies: Bell, Telus, Rogers, Virgin, Koodo, Fido and Chatr.
 Expert in digital photography and mobile audio devices.
 
-\
 # **EDUCATION**
 
 ## **Master’s degree in E-Commerce** | *2015-2016 (2 years)*
@@ -86,7 +85,6 @@ Expert in digital photography and mobile audio devices.
 - Sherbrooke Cegep
 - With mention of excellence
 
-\
 # **SPECIFIC SKILLS**
 
 - Excellent knowledge of advertising platforms: Google Ads, Search Ads 360 (SA360), Campaign Manager 360 (CM360), Display & Video 360 (DV360), Facebook (Meta) Business Manager, Bing Ads, LinkedIn Ads, Tik Tok Ads, Pinterest Ads and many other Demand Side Platforms (DSP) such as Yahoo! and Sharethrough.
@@ -94,7 +92,6 @@ Expert in digital photography and mobile audio devices.
 - Excellent knowledge of Google Workspace and Microsoft Office.
 - Bilingual English and French, spoken and written.
 
-\
 # **OTHER EXPERIENCES AND TRAININGS**
 
 - International Study Project in Indonesia and Singapore for the Clefs d'Or association.
