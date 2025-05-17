@@ -14,23 +14,23 @@ Passionate about digital technologies (hardware and software) since my beginning
 #### 1. Digital Media & Innovation Director | May 2022 to today (3 years and 1 month)
 - Co-directing the media department, operations and clients.
 - In charge of innovation projects within the media department such as automated dashboards, Data Clean Rooms, data management for insights, adoption of new tools and best practices.
-\
+
 #### 2. Digital Media Consultant | September 2020 to April 2022 (1 year and 8 months)
 - Acts as a consultant on advanced mandates related to digital marketing and business transformation.
 - Strategic partner for clients and internal teams.
-\
+
 #### 3. Team Manager & Digital Media Strategist | December 2018 to August 2020 (1 year and 9 months)
 - Manager of a team of nine digital media experts.
 - In charge of the strategic planning and media investments of top tier clients.
-\
+
 #### 4. Digital Media Strategist | September 2018 to November 2018 (3 months)
 - In charge of the strategic planning and media investments of clients.
 - Responsible for client relations and achieving media objectives.
-\
+
 #### 5. Digital Media Specialist | September 2017 to August 2018 (1 year)
 - In charge of setting up, managing and optimizing digital advertising campaigns.
 Establishment of strategic recommendations and management of client relations.
-\
+
 #### 6. Digital Media Analyst | August 2016 to August 2017 (1 year and 1 month)
 - In charge of the management and optimization of digital advertising campaigns.
 - Responsible for client communications.
@@ -61,7 +61,7 @@ Establishment of strategic recommendations and management of client relations.
 - Responsible for "non-stocked" purchases of the research center in Valcourt (QC).
 - Negotiation and management of orders with suppliers.
 - Management of a budget, schedules and accounting for purchases.
-\
+
 #### 2. Project Manager
 - Participation in the standardization of the company's translation operations worldwide.
 - Negotiation of partnerships with partners.
