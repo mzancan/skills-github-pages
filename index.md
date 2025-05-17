@@ -31,7 +31,7 @@
     }
 
     nav a:hover {
-      background-color: #FFFFFF;
+      background-color: #000000;
       border-radius: 5px;
     }
   </style>
@@ -51,7 +51,7 @@
 
 <br/>
 
-## **MATHIEU ZANCAN** | [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
+### **MATHIEU ZANCAN** | [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
 # **SUMMARY**
 
