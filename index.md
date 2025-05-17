@@ -51,7 +51,8 @@
 
 <br/>
 
-### **MATHIEU ZANCAN** | [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
+# **MATHIEU ZANCAN**
+[My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
 # **SUMMARY**
 
