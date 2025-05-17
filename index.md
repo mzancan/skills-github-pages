@@ -1,8 +1,3 @@
----
-title: Mathieu Zancan
----
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -47,14 +42,14 @@ title: Mathieu Zancan
       <a href="#summary">Summary</a>
       <a href="#professional-experiences">Professional Experiences</a>
       <a href="#education">Education</a>
-      <a href="#skills">Skills</a>
-      <a href="#other-experiences">Other Experiences</a>
-      <a href="#training">Training</a>
+      <a href="#skills">Specific Skills</a>
+      <a href="#other-experiences">Other Experiences and Trainings</a>
     </nav>
   </header>
 </body>
 </html>
 
+<br/>
 
 [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
