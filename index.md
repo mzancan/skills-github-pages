@@ -44,33 +44,33 @@ Master’s synthesis project in e-commerce
 ## **ECOMMTL (E-commerce corporate event)** | *2014-2016 (2 years)*
 
 Member of the board of directors
-Business development project manager.
-Establishment of partnerships with participating companies.
-Great involvement in logistics and strategic decisions.
+- Business development project manager.
+- Establishment of partnerships with participating companies.
+- Great involvement in logistics and strategic decisions.
 
 ## **LOZEAU** | *2014-2015 (1 year)*
 
 Salesman & Photography Teacher
-Product advice and sales.
-Classroom and studio teaching.
-Participation in the organization of photo exhibitions.
+- Product advice and sales.
+- Classroom and studio teaching.
+- Participation in the organization of photo exhibitions.
 
 ## **BRP** | *2012 (6 months)*
 
-Buyer at the research and development center
-Responsible for "non-stocked" purchases of the research center in Valcourt (QC).
-Negotiation and management of orders with suppliers.
-Management of a budget, schedules and accounting for purchases.
+1. Buyer at the research and development center
+- Responsible for "non-stocked" purchases of the research center in Valcourt (QC).
+- Negotiation and management of orders with suppliers.
+- Management of a budget, schedules and accounting for purchases.
 
-Project Manager
-Participation in the standardization of the company's translation operations worldwide.
-Negotiation of partnerships with partners.
+2. Project Manager
+- Participation in the standardization of the company's translation operations worldwide.
+- Negotiation of partnerships with partners.
 
 ## **FUTURE SHOP** | *2007-2014 (8 years)*
 
 Salesman in mobile telephony, digital imaging and mobile audio
-Mobile phone expert representing seven companies: Bell, Telus, Rogers, Virgin, Koodo, Fido and Chatr.
-Expert in digital photography and mobile audio devices.
+- Mobile phone expert representing seven companies: Bell, Telus, Rogers, Virgin, Koodo, Fido and Chatr.
+- Expert in digital photography and mobile audio devices.
 
 # **EDUCATION**
 
