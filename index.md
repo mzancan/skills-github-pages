@@ -27,7 +27,7 @@
       text-decoration: none;
       font-weight: bold;
       padding: 10px 15px;
-      transition: background-color 0.3s ease;
+      transition: white 0.3s ease;
     }
 
     nav a:hover {
