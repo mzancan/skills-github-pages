@@ -1,4 +1,5 @@
 <!-- index.html -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -48,8 +49,9 @@
       <a href="#other-experiences-and-trainings">Other Experiences and Trainings</a>
     </nav>
   </header>
+</body>
+</html>
 
-  <!-- Content -->
 # **Mathieu Zancan**
 [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
@@ -150,8 +152,7 @@ Establishment of strategic recommendations and management of client relations.
 - Cellshop representative certification (Future Shop, now Best Buy).
 - Great involvement in student associations as a volunteer.
 
-</body>
-</html>
+
 
 
 
