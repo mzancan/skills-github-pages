@@ -51,7 +51,7 @@
   </header>
 
   <!-- Content -->
-# **MATHIEU ZANCAN**
+# **Mathieu Zancan**
 [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
 # **SUMMARY**
