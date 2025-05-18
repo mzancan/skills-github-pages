@@ -49,7 +49,8 @@
       <a href="#other-experiences-and-trainings">Other Experiences and Trainings</a>
     </nav>
   </header>
-<!-- Content -->
+
+  <!-- Content -->
 # **MATHIEU ZANCAN**
 [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
