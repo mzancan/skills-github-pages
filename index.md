@@ -1,4 +1,3 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,9 +11,9 @@
     }
 
     header {
-      background-color: #FFFFFF;
+      background-color: #2c3e50;
       padding: 20px;
-      color: black;
+      color: white;
     }
 
     nav {
@@ -25,28 +24,27 @@
     }
 
     nav a {
-      color: black;
+      color: white;
       text-decoration: none;
       font-weight: bold;
       padding: 10px 15px;
-      transition: black 0.3s ease;
+      transition: background-color 0.3s ease;
     }
 
     nav a:hover {
-      background-color: #000000;
+      background-color: #34495e;
       border-radius: 5px;
     }
   </style>
 </head>
 <body>
   <header>
-    <!-- Navigation -->
     <nav>
       <a href="#summary">Summary</a>
       <a href="#professional-experiences">Professional Experiences</a>
       <a href="#education">Education</a>
       <a href="#specific-skills">Specific Skills</a>
-      <a href="#other-experiences-and-trainings">Other Experiences and Trainings</a>
+      <a href="#other-experiences-and-trainings">Other Experiences and Training</a>
     </nav>
   </header>
 </body>
