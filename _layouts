@@ -10,9 +10,9 @@
     }
 
     header {
-      background-color: #000000;
+      background-color: #FFFFFF;
       padding: 20px;
-      color: white;
+      color: black;
     }
 
     nav {
@@ -23,15 +23,15 @@
     }
 
     nav a {
-      color: white;
+      color: black;
       text-decoration: none;
       font-weight: bold;
       padding: 10px 15px;
-      transition: white 0.3s ease;
+      transition: black 0.3s ease;
     }
 
     nav a:hover {
-      background-color: #FFFFFF;
+      background-color: #000000;
       border-radius: 5px;
     }
   </style>
