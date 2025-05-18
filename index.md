@@ -1,3 +1,55 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Resume</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      background-color: #FFFFFF;
+      padding: 20px;
+      color: black;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: black;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 10px 15px;
+      transition: black 0.3s ease;
+    }
+
+    nav a:hover {
+      background-color: #000000;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Navigation -->
+    <nav>
+      <a href="#summary">Summary</a>
+      <a href="#professional-experiences">Professional Experiences</a>
+      <a href="#education">Education</a>
+      <a href="#specific-skills">Specific Skills</a>
+      <a href="#other-experiences-and-trainings">Other Experiences and Trainings</a>
+    </nav>
+  </header>
+<!-- Content -->
 # **MATHIEU ZANCAN**
 [My LinkedIn](https://www.linkedin.com/in/mathieu-zancan/)
 
@@ -98,7 +150,8 @@ Establishment of strategic recommendations and management of client relations.
 - Cellshop representative certification (Future Shop, now Best Buy).
 - Great involvement in student associations as a volunteer.
 
-
+</body>
+</html>
 
 
 
